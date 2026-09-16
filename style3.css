@@ -1,0 +1,51 @@
+body
+{
+    background-color: aliceblue;
+    font-size:xx-large;
+    max-width: 100%;
+
+    
+}
+
+header{
+    background-color: rgb(154, 218, 234);
+    padding: 7px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-bottom: 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+section{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table{
+    width: 100% ;
+    padding:10px;
+    font-size: xxx-large;
+   
+}
+/*Important to notice*/
+
+input[type=button]:hover,
+button:hover{
+    background-color: rgb(246, 249, 250);
+    color: rgb(3, 3, 3);
+}
+
+footer
+{
+    background-color: rgb(154, 218, 234);
+    font-size: x-large;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+section button{
+    font-size: large;
+    border-radius: 10px;
+    background-color: black;
+    color: aliceblue;
+}
+
+
